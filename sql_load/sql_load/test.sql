@@ -1,0 +1,2 @@
+SELECT
+    'test' AS test
