@@ -1,2 +1,0 @@
-SELECT
-    'test' AS test
